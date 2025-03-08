@@ -67,9 +67,5 @@ I'm always open to discussions on **AI, Data Science, and Open Source Developmen
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoshithaJ&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoshithaJ&layout=compact&theme=radical)  
-
 Thank you for visiting! 😊 Let's build something amazing together! 🚀
 
