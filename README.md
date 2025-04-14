@@ -60,7 +60,7 @@ I'm passionate about transforming data into actionable insights and building AI-
 ## 📢 Let's Connect!
 I'm always open to discussions on **AI, Data Science, and Open Source Development**. Feel free to reach out! 💡
 
-- 🌐 **Website**: (https://yoshitha.vercel.app/)
+- 🌐 **Website**: https://yoshitha.vercel.app/
 - 💼 **LinkedIn**: [linkedin.com/in/yoshithajaladanki](https://www.linkedin.com/in/yoshithajaladanki)
 - 💻 **GitHub**: [github.com/yoshithajaladanki](https://github.com/yoshithajaladanki)
 - 📧 **Email**: jaladankiyoshitha@gmail.com
